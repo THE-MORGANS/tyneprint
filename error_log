@@ -1,0 +1,31 @@
+[05-May-2021 17:32:27 America/Boise] PHP Warning:  require(/home4/loadmart/public_html/tyneprints/../vendor/autoload.php): failed to open stream: No such file or directory in /home4/loadmart/public_html/tyneprints/index.php on line 24
+[05-May-2021 17:32:27 America/Boise] PHP Warning:  require(/home4/loadmart/public_html/tyneprints/../vendor/autoload.php): failed to open stream: No such file or directory in /home4/loadmart/public_html/tyneprints/index.php on line 24
+[05-May-2021 17:32:27 America/Boise] PHP Fatal error:  require(): Failed opening required '/home4/loadmart/public_html/tyneprints/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/loadmart/public_html/tyneprints/index.php on line 24
+[04-Jun-2021 06:13:46 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [index] not defined. in /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(768): Illuminate\Routing\UrlGenerator->route('index', Array, true)
+#1 /home4/loadmart/public_html/tyneprints/tyneprint/storage/framework/views/4f8c16be351628b91b1a5e87008f1cfd84299466.php(46): route('index')
+#2 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(41): include('/home4/loadmart...')
+#3 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home4/loadmart...', Array)
+#4 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php in /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[04-Jun-2021 06:13:47 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [index] not defined. in /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(768): Illuminate\Routing\UrlGenerator->route('index', Array, true)
+#1 /home4/loadmart/public_html/tyneprints/tyneprint/storage/framework/views/4f8c16be351628b91b1a5e87008f1cfd84299466.php(46): route('index')
+#2 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(41): include('/home4/loadmart...')
+#3 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home4/loadmart...', Array)
+#4 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php in /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[04-Jun-2021 06:14:20 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [index] not defined. in /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(768): Illuminate\Routing\UrlGenerator->route('index', Array, true)
+#1 /home4/loadmart/public_html/tyneprints/tyneprint/storage/framework/views/4f8c16be351628b91b1a5e87008f1cfd84299466.php(46): route('index')
+#2 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(41): include('/home4/loadmart...')
+#3 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home4/loadmart...', Array)
+#4 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php in /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[04-Jun-2021 06:14:21 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [index] not defined. in /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(768): Illuminate\Routing\UrlGenerator->route('index', Array, true)
+#1 /home4/loadmart/public_html/tyneprints/tyneprint/storage/framework/views/4f8c16be351628b91b1a5e87008f1cfd84299466.php(46): route('index')
+#2 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(41): include('/home4/loadmart...')
+#3 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(57): Illuminate\View\Engines\PhpEngine->evaluatePath('/home4/loadmart...', Array)
+#4 /home4/loadmart/public_html/tyneprints/tyneprint/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php in /home4/loadmart/public_html/tyneprints/tyneprint/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
